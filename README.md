@@ -1,8 +1,5 @@
 # AI Travel Chatbot
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![AI](https://img.shields.io/badge/AI-Chatbot-green)
-
 A conversational AI chatbot designed to provide travel insights, destination information, and general travel assistance through natural language interaction.
 
 The system allows users to ask travel-related questions and receive AI-generated responses, simulating an intelligent travel guidance assistant.
