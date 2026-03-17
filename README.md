@@ -2,24 +2,23 @@
 
 A conversational AI chatbot designed to provide travel insights, destination information, and general travel assistance through natural language interaction.
 
-The system allows users to ask travel-related questions and receive AI-generated responses, simulating an intelligent travel guidance assistant.
+The system enables users to ask travel-related questions and receive AI-generated responses, simulating an intelligent travel guidance assistant.
 
 ---
 
-## Project Overview
+## Overview
 
-This project was developed as a **group assignment** as part of the Master of Science in Artificial Intelligence (MSAI) program.  
-The chatbot system was collaboratively designed and implemented by the project team as the final deliverable for the course.
+This project was developed as a group assignment as part of the Master of Science in Artificial Intelligence (MSAI) program. The chatbot system was collaboratively designed and implemented as the final deliverable for the course.
 
-The goal of the project was to explore how conversational AI systems can be used to assist users with travel-related information through natural language interaction.
+The primary objective was to explore how conversational AI systems can assist users with travel-related information through natural language interaction.
 
 ---
 
 ## Features
 
-- Natural language interaction with users
-- Travel information assistance
-- AI-generated responses for travel queries
+- Natural language interaction
+- Travel information and guidance
+- AI-generated responses for user queries
 - Conversational chatbot interface
 
 ---
@@ -27,13 +26,27 @@ The goal of the project was to explore how conversational AI systems can be used
 ## Tech Stack
 
 Python  
-Large Language Model APIs  
+Large Language Model (LLM) APIs  
 Prompt Engineering  
-Conversational AI Concepts
+Conversational AI  
+
+---
+
+## How It Works
+
+The chatbot processes user queries and generates context-aware responses using a language model interface. It is designed to simulate a travel assistant by providing relevant information based on user input.
 
 ---
 
 ## Project Context
 
-This repository contains the **final version of the group project** developed during the MSAI program.  
-The project demonstrates how conversational AI systems can be designed and structured for real-world applications such as travel assistance.
+This repository represents the final version of a collaborative group project developed during the MSAI program. It demonstrates the practical application of conversational AI concepts in a real-world use case.
+
+---
+
+## Future Improvements
+
+- Integration with real-time travel APIs  
+- Personalized recommendations  
+- Expanded conversational capabilities  
+- Improved response accuracy with advanced models  
